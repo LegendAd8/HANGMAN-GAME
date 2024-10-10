@@ -1,0 +1,13 @@
+The text-based Hangman game is a classic word-guessing game implemented in Python, providing an interactive way to test and sharpen your vocabulary skills. The game randomly selects a secret word from a pre-defined list, and the player's objective is to guess the word, one letter at a time, before running out of attempts.
+
+When the game starts, the secret word is displayed as a series of dashes representing each letter. The player inputs one letter per turn, and if the letter is part of the word, all occurrences of that letter are revealed in their correct positions. If the guessed letter isn't in the word, the player loses a life. The player is usually given 6-8 lives before the game is over.
+
+As the game progresses, a visual representation of the hangman is displayed, showing a stick figure being drawn piece by piece with each wrong guess. This adds tension as the figure nears completion with each incorrect attempt.
+
+The game concludes when the player either successfully guesses all the letters or loses all their lives. After the game ends, the player can choose to play again with a new word or quit. This simple yet addictive game makes learning Python fun by combining logical thinking and coding creativity!
+
+
+
+
+
+
